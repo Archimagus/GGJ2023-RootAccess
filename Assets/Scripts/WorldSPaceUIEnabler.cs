@@ -1,8 +1,7 @@
 using UnityEngine;
 
-class WorldSpaceUIEnabler : MonoBehaviour
+internal class WorldSpaceUIEnabler : MonoBehaviour
 {
-
 	private void Update()
 	{
 		Cursor.lockState = CursorLockMode.Confined;

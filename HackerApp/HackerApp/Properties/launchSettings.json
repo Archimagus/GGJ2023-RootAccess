@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"HackerApp": {
+			"commandName": "Project",
+			"workingDirectory": "C:\\Users\\Archimagus\\Documents\\Unity Projects\\GGJ2023\\HackerApp"
+		}
+	}
+}
